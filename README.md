@@ -47,13 +47,13 @@ Follow these steps to execute the project:
 2. Install Docker (https://www.docker.com/).
 3. Clone this repository:
    ```bash
-   git clone https://github.com/joshafouda/TutoMLDocker.git
-   cd TutoMLDocker
+   git clone https://github.com/vipulwarthe/deploy-ml-model-with-streamlit-docker.git
+   cd deploy-ml-model-with-streamlit-docker
    ```
 4. (Optional but recommended) Create a virtual environment:
    ```bash
    python3 -m venv .venv
-   source .venv/bin/activate  # On Windows: venv\Scripts\activate
+   source .venv/bin/activate          # On Windows: venv\Scripts\activate
    ```
 5. Install dependencies from `requirements.txt`:
    ```bash
